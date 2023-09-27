@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include zapier *.css
+recursive-include zapier *.csv
+recursive-include zapier *.html
+recursive-include zapier *.ico
+recursive-include zapier *.js
+recursive-include zapier *.json
+recursive-include zapier *.md
+recursive-include zapier *.png
+recursive-include zapier *.py
+recursive-include zapier *.svg
+recursive-include zapier *.txt
+recursive-exclude zapier *.pyc

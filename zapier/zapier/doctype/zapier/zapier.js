@@ -50,7 +50,7 @@ container.appendChild(element);
 
 }  
 });
-frm.add_custom_button("Submit", function(){window.location.reload(); });
+frm.add_custom_button("Reload", function(){window.location.reload(); });
 
 }
 	
